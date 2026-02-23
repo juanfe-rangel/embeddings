@@ -76,5 +76,5 @@ We keep max_length = 16 and test different steps (1, 2, 4, 8, 16):
 - Can cause excessive memorization
 
 ---
-
-Created for FDSI - University (2026)
+## authors
+Juan Felipe Rangel Rodriguez
